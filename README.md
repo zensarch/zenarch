@@ -1,4 +1,4 @@
-DECENTRALISED CROWDFUNDING PLATFORM 
+##DECENTRALISED CROWDFUNDING PLATFORM 
 
 This is a comprehensive decentralized crowdfunding platform with the following key features:
 Main Features:
@@ -49,3 +49,9 @@ Testing: Test thoroughly on testnet before mainnet deployment
 Gas Optimization: Consider gas costs for large contributor lists
 
 The contract includes comprehensive error handling, events for frontend integration, and getter functions for retrieving campaign and milestone data. You can extend it further with features like campaign categories, reward tiers, or integration with ERC-20 tokens.
+
+##Contract address: 
+0x32AF8a58a38A3248c427c2d5e450C1A2BA69c110
+
+<img width="1363" height="598" alt="image" src="https://github.com/user-attachments/assets/8e86fcba-bb77-4134-a978-ed7fd26d95c8" />
+
