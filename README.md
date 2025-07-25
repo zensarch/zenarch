@@ -1,3 +1,5 @@
+DECENTRALISED CROWDFUNDING PLATFORM 
+
 This is a comprehensive decentralized crowdfunding platform with the following key features:
 Main Features:
 1. Campaign Creation
